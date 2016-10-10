@@ -1,2 +1,3 @@
 # Second-grade-math
-Second grade math. Two number.
+Second grade math practice.
+Addition and subtraction.
