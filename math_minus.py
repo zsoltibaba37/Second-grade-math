@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.5
+#!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 
 import random, sys, shutil, os, time
@@ -75,22 +75,4 @@ while True:
     jobb = b - c
     #
     os.system('clear')
-#    if bal == jobb:
-#        print ("-" * 80)
-#        print ("A megadott szám jó !")
-#        print (a, " + ", "[", d, "]", " = ", b, " + ", c)
-#        print ("-" * 80)
-#        winsound.Beep(freq,dur)
-#        winsound.PlaySound("*", winsound.SND_ALIAS)
-#        time.sleep(0.5)
-#        print ("A Programból való kilépéshez nyomjd meg a CTRL-C billentyű kombinációt")
-#    else:
-#        print ("-" * 80)
-#        print ("A megadott szám nemjó !")
-#        print ("A helyes szám =", "[", b+c-a, "]" )
-#        print (a, " + ", "[", b+c-a, "]", " = ", b, " + ", c)
-#        print ("-" * 80)
-#        winsound.Beep(freqn,durn)
-#        winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
-#        time.sleep(0.5)
-#        print ("A Programból való kilépéshez nyomjd meg a CTRL-C billentyű kombinációt")
+#    os.system('cls')
