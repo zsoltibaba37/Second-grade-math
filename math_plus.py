@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 import random, sys, shutil, os, time
-import winsound
+#import winsound
 
 # Jó az eredmény - Hangjelzés
 freq = 1000
