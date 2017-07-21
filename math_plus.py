@@ -17,6 +17,7 @@ b = int()
 c = int()
 d = int()
 
+os.system('clear')
 print ("-" * 80)
 print (" Szia Milán :-) ")
 print (" Gyakoljunk egy kis összeadást. ")
@@ -73,4 +74,5 @@ while True:
     bal = a + d
     jobb = b + c
     #
-    os.system('cls')
+    os.system('clear')
+#    os.system('cls')
