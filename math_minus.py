@@ -34,7 +34,7 @@ while True:
             #winsound.Beep(freq, dur)
             #        winsound.PlaySound("*", winsound.SND_ALIAS)
             #        time.sleep(0.5)
-            print("A Programból való kilépéshez nyomjd meg a CTRL-C billentyű kombinációt")
+            print("A Programból való kilépéshez nyomd meg a CTRL-C billentyű kombinációt")
         else:
             print("-" * 80)
             print("A megadott szám nemjó !")
@@ -44,7 +44,7 @@ while True:
             #winsound.Beep(freqn, durn)
             #        winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
             #        time.sleep(0.5)
-            print("A Programból való kilépéshez nyomjd meg a CTRL-C billentyű kombinációt")
+            print("A Programból való kilépéshez nyomd meg a CTRL-C billentyű kombinációt")
     else:
         pass
 
